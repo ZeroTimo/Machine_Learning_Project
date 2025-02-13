@@ -1,39 +1,8 @@
-# Grundlagen
-numpy==1.24.3                # Numerische Berechnungen
-pandas==2.0.3                # Datenmanipulation und -analyse
-scipy==1.10.1                # Wissenschaftliches Rechnen
-
-# Datenvisualisierung
-matplotlib==3.7.1            # Standard-Plotting-Bibliothek
-seaborn==0.12.2              # Erweiterte Visualisierungen
-plotly==5.9.0                # Interaktive Visualisierungen
-
-# Maschinelles Lernen
-scikit-learn==1.2.2          # ML-Algorithmen und Preprocessing
-xgboost==1.7.6               # Gradient Boosting für bessere Modelle
-lightgbm==3.3.5              # Alternative zu XGBoost für schnelles Training
-catboost==1.1.1              # Gradient Boosting speziell für kategoriale Daten
-
-# Feature Engineering & Preprocessing
-category_encoders==2.6.0     # Kategoriale Variablen kodieren
-missingno==0.5.2             # Visualisierung von fehlenden Werten
-imblearn==0.11.0             # Sampling-Techniken für unausgewogene Daten
-sklearn-pandas==2.2.0        # Pipeline-Integration für Pandas-Daten
-
-# Hyperparameter-Tuning
-optuna==3.2.0                # Automatisierte Hyperparameter-Optimierung
-hyperopt==0.2.7              # Alternativer Hyperparameter-Tuner
-
-# Deployment & Pipelines
-mlflow==2.4.1                # Tracking von ML-Experimenten und Modelle
-dvc==3.4.0                   # Data Version Control für Reproduzierbarkeit
-fastapi==0.100.1             # API-Erstellung für ML-Modelle
-uvicorn==0.23.1              # ASGI-Server für FastAPI
-
-# Model Interpretability
-shap==0.41.0                 # Modellinterpretation
-lime==0.2.0.1                # Erklärbarkeit von ML-Modellen
-
-# Notebooks & Dokumentation
-jupyter==1.0.0               # Jupyter Notebook für Experimente
-jupyterlab==3.6.3            # Erweiterte Jupyter-Umgebung
+yfinance
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+joblib
+os
