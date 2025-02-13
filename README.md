@@ -28,19 +28,6 @@ git clone https://github.com/ZeroTimo/Machine_Learning_Project.git
 ### Abhängigkeiten installieren:
 pip install -r requirements.txt
 
-## Projektstruktur:
-
-Machine_Learning_Project/
-├── data/                # Enthält historische Daten und verarbeitete Daten mit Indikatoren
-├── models/              # Gespeicherte Modelle
-├── results/             # Evaluierungsergebnisse und Visualisierungen
-├── src/                 # Enthält die Hauptskripte
-│   ├── data_collection.py
-│   ├── feature_engineering.py
-│   ├── train_model.py
-│   └── evaluate.py
-└── main.py              # Führt den gesamten Workflow aus
-
 ## Nutzung
 
 ### Workflow ausführen:
